@@ -1,2 +1,2 @@
 # exe.uri
-Exercícios do URI resolvidos
+Exercícios do URI <strong>resolvidos</strong>.
